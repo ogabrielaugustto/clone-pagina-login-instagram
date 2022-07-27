@@ -164,6 +164,10 @@ body{
 
     .instagram-continue{
         width: 100%;
+        margin: auto;
+        align-items: center;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
     .group{
